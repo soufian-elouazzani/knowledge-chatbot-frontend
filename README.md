@@ -1,2 +1,2 @@
 # Knowldge ChatBot 
-the user can uplad files for the context of it's conversation
+the user can upload files for the context of it's conversation
